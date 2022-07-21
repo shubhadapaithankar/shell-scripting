@@ -24,20 +24,4 @@ Resolving Dependencies
 ---> Package perl-TermReadKey.x86_64 0:2.30-20.el7 will be installed
 --> Finished Dependency Resolution
 
-Dependencies Resolved
-
-================================================================================
- Package                Arch         Version                   Repository  Size
-================================================================================
-Installing:
- git                    x86_64       1.8.3.1-23.el7_8          base       4.4 M
-Installing for dependencies:
- perl-Error             noarch       1:0.17020-2.el7           base        32 k
- perl-Git               noarch       1.8.3.1-23.el7_8          base        56 k
- perl-TermReadKey       x86_64       2.30-20.el7               base        31 k
-
-Transaction Summary
-================================================================================
-Install  1 Package (+3 Dependent packages)
-
 
